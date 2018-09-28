@@ -312,7 +312,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>vdian.router.tool.Main</mainClass>
+                            <mainClass>com.router.tool.Main</mainClass>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
                         </manifest>
@@ -332,7 +332,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>vdian.router.tool.Main</mainClass>
+                            <mainClass>com.router.tool.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
