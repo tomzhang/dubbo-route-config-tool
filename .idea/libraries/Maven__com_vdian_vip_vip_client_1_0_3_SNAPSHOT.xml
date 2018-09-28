@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.vdian.vip:vip-client:1.0.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vdian/vip/vip-client/1.0.3-SNAPSHOT/vip-client-1.0.3-20161017.031535-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vdian/vip/vip-client/1.0.3-SNAPSHOT/vip-client-1.0.3-20161017.031535-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vdian/vip/vip-client/1.0.3-SNAPSHOT/vip-client-1.0.3-20161017.031535-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

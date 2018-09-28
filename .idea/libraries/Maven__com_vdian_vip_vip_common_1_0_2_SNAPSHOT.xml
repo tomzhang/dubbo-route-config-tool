@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.vdian.vip:vip-common:1.0.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vdian/vip/vip-common/1.0.2-SNAPSHOT/vip-common-1.0.2-20161028.082134-10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vdian/vip/vip-common/1.0.2-SNAPSHOT/vip-common-1.0.2-20161028.082134-10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vdian/vip/vip-common/1.0.2-SNAPSHOT/vip-common-1.0.2-20161028.082134-10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.vdian.vrecorder:vrecorder:1.0.6-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vdian/vrecorder/vrecorder/1.0.6-SNAPSHOT/vrecorder-1.0.6-20160927.024814-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vdian/vrecorder/vrecorder/1.0.6-SNAPSHOT/vrecorder-1.0.6-20160927.024814-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vdian/vrecorder/vrecorder/1.0.6-SNAPSHOT/vrecorder-1.0.6-20160927.024814-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
